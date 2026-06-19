@@ -24,9 +24,9 @@ function Logo() {
         <LogoContainer>
             <LogoImage
                 src={logo}
-                alt='Logo do CineScope' 
+                alt='Logo do JouzesFilms' 
             />
-            <p><strong>Cine</strong>Scope</p>
+            <p><strong>Jouzes</strong>Films</p>
        </LogoContainer>
     )
 }
